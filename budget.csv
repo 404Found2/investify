@@ -1,0 +1,30 @@
+username, amt, date, note, cat
+a123,1000,2024-10-18,Salary,Income
+a123,10,2024-10-10,School Field Trip,Education
+a123,100,2024-10-09,Taxes,Necessary Expenses
+a123,123,2024-10-30,Trip to Local Amusement Park,Recreation
+q12322M,30,2024-10-08,tst,Investment
+q12322M,560,2024-10-16,teter,Income
+q12322M,56,2024-10-16,sample,Recreation
+a123,23,2024-11-02,Dividend Earnings,Income
+a123,34,2024-10-16,Random,Income
+q12322M,56,2024-10-14,test,Income
+q12322M,456,2024-10-15,rty,Education
+q12322M,456,2024-10-09,rty,Recreation
+q12322M,456,2024-10-04,food,Necessary Expenses
+SSSS,100000,2024-10-01,SALARY,Income
+SSSS,500000,2024-10-01,stock,Investment
+SSSS,3000,2024-10-01,food,Necessary Expenses
+test234,10000,2024-10-01,Salary,Income
+test234,120,2024-10-12,Groceries,Necessary Expenses
+test234,10,2024-10-18,Eye Check Up,Healthcare
+test156,10000,2024-10-01,Salary,Income
+test156,120,2024-10-05,Groceries,Necessary Expenses
+test156,10,2024-10-05,Eye Exam,Healthcare
+test156,10,2024-10-06,Movie Theater,Recreation
+test369,1000,2024-10-01,Salary,Income
+test369,120,2024-10-05,Food,Necessary Expenses
+test369,10,2024-10-06,Went to Movies,Recreation
+sample369,1000,2024-10-01,Salary,Income
+sample369,500,2024-10-05,Rent,Necessary Expenses
+sample369,10,2024-10-06,Movies,Recreation
